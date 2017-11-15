@@ -10,6 +10,6 @@ class BoardMember{
   }
 
   approve(){
-    
+    return "You can do that!"
   }
 }
